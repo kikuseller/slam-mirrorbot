@@ -2,7 +2,7 @@
 - [ DEAD REPO AND NO MORE UPDATE ]
 ```
 [![SlamDevs](https://telegra.ph/file/143032e96542e7534f073.jpg)](https://t.me/SlamDevs)
-
+https://heroku.com/deploy?template=https://github.com/kikuseller/File-SHare-Bot
 # Slam Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
